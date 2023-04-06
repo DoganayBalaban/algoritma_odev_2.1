@@ -1,0 +1,1 @@
+Program, öncelikle verilen root düğümüne ait sol alt ağacı ziyaret eder ve sol alt ağacın en sağ düğümünü root düğümüne bağlar. Daha sonra, root düğümünün sol alt ağacına NULL atanır ve sağ alt ağacı ziyaret edilir. Sağ alt ağaçta benzer işlemler yapılır ve sonuçta birleştirilmiş sıralı liste elde edilir.

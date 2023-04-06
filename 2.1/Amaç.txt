@@ -1,0 +1,1 @@
+Bu programın amacı, bir binary tree'nin sol alt ağacını, sağ alt ağacını ve kendisini tek bir sıralı listede birleştirmektir.

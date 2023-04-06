@@ -1,0 +1,1 @@
+Kodu kullanmak için, main fonksiyonunda bir binary tree oluşturmanız ve ardından flatten fonksiyonunu çağırmanız gerekiyor. Oluşturulan binary tree, struct dugum yapısı kullanılarak tanımlanır ve ağaç düzleştirildikten sonra printList fonksiyonu kullanılarak ekrana yazdırılır.
